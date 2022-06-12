@@ -1,0 +1,2 @@
+C:\Users\smith\Documents\VS Projects\Snake7\Debug\Snake7.exe
+C:\Users\smith\Documents\VS Projects\Snake7\Debug\Snake7.pdb
